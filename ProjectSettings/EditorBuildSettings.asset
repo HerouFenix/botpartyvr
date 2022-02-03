@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: eb9403e95f28e204789219a87c71bef5
+  - enabled: 1
+    path: Assets/Scenes/ThankYou.unity
+    guid: 159be1f7c5797404b8190eec70257357
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Buttons/Inst_MainScene_Controller_Buttons.unity
+    guid: 1006e4e73d8d7e54ea3569ae56af9162
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Buttons/MainScene_Controller_Buttons.unity
+    guid: cb5c5686f4a9bf04f91ea2c0cc18c807
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Point_Trigger_Delay/Inst_MainScene_Controller_Trigger.unity
+    guid: 1483094d105948c4e8bc4854727983e6
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Point_Trigger_Delay/MainScene_Controller_Trigger.unity
+    guid: 976f0de5923a777478915f6fb067a600
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Point_Trigger/Inst_MainScene_Controller_Trigger_Button.unity
+    guid: e2d4849ad94370c489e7c45bc29efe61
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Point_Trigger/MainScene_Controller_Trigger_Button.unity
+    guid: 13f13a654ed53de40abef7777d6a5018
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Gestures/Inst_MainScene_Hands_Gestures.unity
+    guid: 5cda647608ddcb04b8e0d4da30411072
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Gestures/MainScene_Hands_Gestures.unity
+    guid: 33bb85456a2995146b4c59bbd3562d90
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Point_Index/Inst_MainScene_Hands_Pointing.unity
+    guid: dcb3dc8075e9a2f429954b95a80dfe16
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Point_Index/MainScene_Hands_Pointing.unity
+    guid: c265ee7c7cb883f45bdf79f7d244d7f5
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Point_Palm/Inst_MainScene_Hands_Pointing_Palm.unity
+    guid: 4c2c4dcc759e3a749b0dbaa60e442966
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Point_Palm/MainScene_Hands_Pointing_Palm.unity
+    guid: 0dd64503086ee3b419961c967c5ae25c
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Point_Trigger/Inst_MainScene_Hands_Pointing_Trigger.unity
+    guid: 7e2588b845436ee4889e00c54c641193
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Point_Trigger/MainScene_Hands_Pointing_Trigger.unity
+    guid: 8b203b42600f82f4a827d5c5a30e1474
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/3DButton/Inst_MainScene_Controller_3DButton.unity
+    guid: 9e6e3c69fc060b44daa347a2945672c0
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/3DButton/MainScene_Controller_3DButton.unity
+    guid: 63a60cdf58ca5154fa8633e9335b007c
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/3DButton/Inst_MainScene_Hand_3DButton.unity
+    guid: aa02b44792550d54dad1f1902932e284
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/3DButton/MainScene_Hand_3DButton.unity
+    guid: 9cdfead6c1520c149bef7d0216602ec4
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/GazeController/Inst_MainScene_Head_GazeController.unity
+    guid: 8c34bcf24d951a649b6da3e1acef1242
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/GazeHands/Inst_MainScene_Head_GazeHands.unity
+    guid: aa51276f1132e304cb0dfc8488ac2877
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/GazeHands/MainScene_Head_GazeHands.unity
+    guid: 81b0f236fac11dd4f9f93321e6fef280
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Gaze/Inst_MainScene_Head_Gaze.unity
+    guid: 81dc95b560d893f4cab72c6ab5e1b197
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Gaze/MainScene_Head_Gaze.unity
+    guid: 021e20c6b5ceff84c8a54b8576a8d75d
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/NodShake/Inst_MainScene_Nod_Shake.unity
+    guid: 17431c99a6d8e5548bc145287e23026f
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/NodShake/MainScene_Nod_Shake.unity
+    guid: 31e8eda9276a7d44ba8ff87583d961ea
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Smack/Inst_MainScene_Head_Smack.unity
+    guid: 56880063096a44e44b725abb660c5309
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Smack/MainScene_Head_Smack.unity
+    guid: 316379a87d7191f4696e4a314d4b158b
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Tilt/MainScene_Head_Tilt.unity
+    guid: a3b72845962d3ca43a7bc5fe5adc4d30
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Drag/Inst_MainScene_Controller_DragDrop.unity
+    guid: ba319666404dfd44ea0a1813bce5f76c
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Drag/MainScene_Controller_DragDrop.unity
+    guid: fc762ac780dc8f94f89570ca7050eb19
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Drag/Inst_MainScene_Hands_DragDrop.unity
+    guid: e0f73d2d6020ec1448c9d8f49087a577
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Drag/MainScene_Hands_DragDrop.unity
+    guid: b92b12dd9e05fad49b5e1e10bcf384c4
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Gaze/Inst_MainScene_Head_Gaze.unity
+    guid: 81dc95b560d893f4cab72c6ab5e1b197
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/GazeController/MainScene_Head_GazeController.unity
+    guid: 15369dbb40456d9448279fe9198b4bcc
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/NodShake/Inst_MainScene_Nod_Shake.unity
+    guid: 17431c99a6d8e5548bc145287e23026f
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/NodShake/MainScene_Nod_Shake.unity
+    guid: 31e8eda9276a7d44ba8ff87583d961ea
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Smack/Inst_MainScene_Head_Smack.unity
+    guid: 56880063096a44e44b725abb660c5309
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Smack/MainScene_Head_Smack.unity
+    guid: 316379a87d7191f4696e4a314d4b158b
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Tilt/Inst_MainScene_Head_Tilt.unity
+    guid: 605fe723ced99fa4aa499902daa87570
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Head/Tilt/MainScene_Head_Tilt.unity
+    guid: a3b72845962d3ca43a7bc5fe5adc4d30
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Joystick/MainScene_Joystick.unity
+    guid: ac102b535c270bb499dce049533d88f2
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Joystick/Inst_MainScene_Joystick.unity
+    guid: 6a48d879ca2a03f4a879be869f147e3f
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Swipe_Trigger/Inst_MainScene_Controller_Swipe_Trigger.unity
+    guid: 2059c995e77bc3b4fbde6b47ac69dcaf
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Swipe_Trigger/MainScene_Controller_Swipe_Trigger.unity
+    guid: 82ec5f13b6d7dcd4c890b13caf49283d
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Swipe_Trigger/Inst_MainScene_Controller_Swipe_Trigger.unity
+    guid: 2059c995e77bc3b4fbde6b47ac69dcaf
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Swipe_Trigger/MainScene_Controller_Swipe_Trigger.unity
+    guid: 82ec5f13b6d7dcd4c890b13caf49283d
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Joystick/Inst_MainScene_Joystick.unity
+    guid: 6a48d879ca2a03f4a879be869f147e3f
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Controllers/Joystick/MainScene_Joystick.unity
+    guid: ac102b535c270bb499dce049533d88f2
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Swipe/Inst_MainScene_Hands_Swipe.unity
+    guid: 7be897493dcb72f4d9a7e417a4469bf5
+  - enabled: 1
+    path: Assets/Scenes/Interactions/Hands/Swipe/MainScene_Hands_Swipe.unity
+    guid: 2d9124710039b844ea0b700149a361c5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6eecdaea594cb3449a47083d1c8f4406, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9fa81aa59734b91469d15adbcc7bd52f, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 22b7c50baad11174cb695265e9d81172, type: 2}

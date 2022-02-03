@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32077663a2ff334e85cb05545dcdd01, type: 3}
+  m_Name: HostDialogC
+  m_EditorClassIdentifier: 
+  _onDialogFinishEvent: {fileID: 0}
+  _questions:
+  - question: "Oh yeah sure, I\u2019ve got loads more in the back, I\u2019ll just
+      go and get them. Be right back."
+    questionClip: {fileID: 8300000, guid: b42776b3df680174ba479a0c8695c035, type: 3}
+    answerA: 
+    answerAClip: {fileID: 0}
+    answerB: 
+    answerBClip: {fileID: 0}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32077663a2ff334e85cb05545dcdd01, type: 3}
+  m_Name: PartyBotDialogB
+  m_EditorClassIdentifier: 
+  _onDialogFinishEvent: {fileID: 0}
+  _questions:
+  - question: "Always a pleasure friend. Oh, by the way HostBot, some people were
+      asking if there\u2019s any more drinks? The bottles over at the table are all
+      empty."
+    questionClip: {fileID: 8300000, guid: 918e9f374d156d047ad2811bc1b4fcc4, type: 3}
+    answerA: 
+    answerAClip: {fileID: 0}
+    answerB: 
+    answerBClip: {fileID: 0}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32077663a2ff334e85cb05545dcdd01, type: 3}
+  m_Name: PartyBotDialogC
+  m_EditorClassIdentifier: 
+  _onDialogFinishEvent: {fileID: 11400000, guid: f060580b862dd32469617276fc9b35f5, type: 2}
+  _questions:
+  - question: "So friend\u2026enjoying the party?"
+    questionClip: {fileID: 8300000, guid: 89d9eb5c91d94e84b98ba8a237a8a473, type: 3}
+    answerA: Awesome! Me too, I was just taking a break from tearing down the dance
+      floor ha ha. You should join us there later!
+    answerAClip: {fileID: 8300000, guid: 0d7f938232be99749b070c5a87926cd0, type: 3}
+    answerAIsHappy: 1
+    answerB: "Yeah, I\u2019ve been to better parties before.. Like what's up with
+      that homemade pizza? Couldn\u2019t afford takeout? Ha ha ha."
+    answerBClip: {fileID: 8300000, guid: d480fcb8de4ebae469fc4f7d114a0773, type: 3}
+    answerBIsHappy: 0
+  - question: "But anyways. HostBot gave this party it all, but I feel he gets over
+      enthusiastic sometimes. Like, this room is pretty small and they invited a
+      lot of bots. Don\u2019t you feel like its a bit overcrowded?"
+    questionClip: {fileID: 8300000, guid: 60fa0038097d5d94688121a367deb3ce, type: 3}
+    answerA: I KNOW RIGHT? Like I get that you want lots of people to fill the room
+      and get that party vibe going but come on..
+    answerAClip: {fileID: 8300000, guid: 2c45bc3e796ee0b4f8a0be133a521c72, type: 3}
+    answerAIsHappy: 1
+    answerB: "No? Just me then? Well.. I guess I am a bit claustrophobic.. I\u2019ll
+      just go catch some fresh air in a bit to cool off the ol\u2019 CPU."
+    answerBClip: {fileID: 8300000, guid: 3e41f198a713e6f4c837e7933f3891c2, type: 3}
+    answerBIsHappy: 0
+  - question: "The decorations are pretty nice though at least.. Can\u2019t say the
+      same about the food though.. Blegh.. But regardless everyone seems to be having
+      a good time and enjoying themselves so its a success nonetheless, even if I\u2019m
+      being picky. Entertainment is also pretty good, they even got a console running
+      the latest Super Smash Fighters Z Ultra! Have you ever played that game?"
+    questionClip: {fileID: 8300000, guid: 7922fe81da47d4a479b2b10c5d8cb164, type: 3}
+    answerA: Oh we gotta play then. Bet you whatever you want I can beat you!
+    answerAClip: {fileID: 8300000, guid: f842e551fb8079b4aa08058005753983, type: 3}
+    answerAIsHappy: 1
+    answerB: "Fair, the game is pretty recent. If you wanna give it a shot I can
+      show you the ropes if you\u2019d like."
+    answerBClip: {fileID: 8300000, guid: b7ba9f411ce60634b86a53236b0c1f0c, type: 3}
+    answerBIsHappy: 1
+  - question: "Anyways mate, Im gonna get going. Left my friends back at the food
+      table to come warn HostBot about the drinks thing. Hey wanna join me? I\u2019m
+      sure my friends would love to meet you."
+    questionClip: {fileID: 8300000, guid: 9d42f65aea666e442bcfd32cdb9b7c3e, type: 3}
+    answerA: "Wicked! Alright let\u2019s get going then!"
+    answerAClip: {fileID: 8300000, guid: 30fb592902b6855498018cf217992a04, type: 3}
+    answerAIsHappy: 1
+    answerB: "Ok then no worries. I\u2019m sure we\u2019ll see each other again in
+      the party. Have fun!"
+    answerBClip: {fileID: 8300000, guid: 8a46a73d1be15434999d5ea28eb27a06, type: 3}
+    answerBIsHappy: 1

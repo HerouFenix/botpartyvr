@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32077663a2ff334e85cb05545dcdd01, type: 3}
+  m_Name: HostDialogA
+  m_EditorClassIdentifier: 
+  _onDialogFinishEvent: {fileID: 0}
+  _questions:
+  - question: "Oh hey you made it! I\u2019m so glad you could come to the party!
+      How are you doing? Good I hope?"
+    questionClip: {fileID: 8300000, guid: b9976902a94a13c4d8ed8f1e198773a1, type: 3}
+    answerA: Glad to hear that!
+    answerAClip: {fileID: 8300000, guid: 397dd78f22abea14688d38e0f2203ec1, type: 3}
+    answerAIsHappy: 1
+    answerB: "Oh, I\u2019m sorry to hear that..but hey now that you\u2019re here
+      you can just unwind, relax and forget about your worries!"
+    answerBClip: {fileID: 8300000, guid: c44d505aee0b8d346bea37f34114f083, type: 3}
+    answerBIsHappy: 0
+  - question: "I\u2019m doing quite well myself. Everyone seems to be having a good
+      time, guests are mingling, people are playing some games over there, some others
+      are dancing. Good vibes all around. Have you had a chance to talk with any
+      other guests yet?"
+    questionClip: {fileID: 8300000, guid: ef8705c73c366e24685ba9551e1e5ea2, type: 3}
+    answerA: Hey nice! Always being your usual charismatic self.
+    answerAClip: {fileID: 8300000, guid: 924f816b9848d77498654f61ba9ed2f3, type: 3}
+    answerAIsHappy: 1
+    answerB: "Hey don\u2019t worry. All my guests are super friendly, you\u2019ll
+      be jazzing with them in no time I\u2019m sure."
+    answerBClip: {fileID: 8300000, guid: e313a884b4989cc4ab2c05ef77767d08, type: 3}
+    answerBIsHappy: 0
+  - question: "Speaking of guests, you\u2019re the latest one to arrive it seems,
+      but there\u2019s still some people missing.. Hmm.. I wonder what happened..
+      Did you have a hard time getting here?"
+    questionClip: {fileID: 8300000, guid: f84fdd58dfbf16f43b1741181d2d5741, type: 3}
+    answerA: Really? Let me guess, traffic? Ugh, it gets so rowdy at this time of
+      day.
+    answerAClip: {fileID: 8300000, guid: cdfa7354964ab3142908fea3fa16e341, type: 3}
+    answerAIsHappy: 0
+    answerB: "Odd then.. Maybe they got lost? I\u2019ll be sure to hit them up on
+      the phone in a bit to see what\u2019s up."
+    answerBClip: {fileID: 8300000, guid: 6b0ccec4c47d4104898a228d23ecdf2f, type: 3}
+    answerBIsHappy: 0
+  - question: Anyways.. say, I know you just arrived but, have you noticed something
+      weird?
+    questionClip: {fileID: 8300000, guid: e719d918136d789489039dd1bb43489f, type: 3}
+    answerA: "Ha ha, you\u2019re so observant. "
+    answerAClip: {fileID: 8300000, guid: 6ec9fb6f2cc40e14da6172dca3056d26, type: 3}
+    answerAIsHappy: 1
+    answerB: "Yeah makes sense, maybe I\u2019m just being paranoid but\u2026"
+    answerBClip: {fileID: 8300000, guid: ee3cdb3e8577fb84494be169638f1d87, type: 3}
+    answerBIsHappy: 0
+  - question: "No one seems to be touching all the food I prepared. Like I\u2019ve
+      seen people eat the snacks I bought at the store, but no one\u2019s touching
+      the homemade pizza I made.. And I put so much love and care into it... Have
+      you had a chance to try it?"
+    questionClip: {fileID: 8300000, guid: c32b3ace10165544c8b4769cbebae546, type: 3}
+    answerA: Oh nice! At least someone did, I hope you liked it!
+    answerAClip: {fileID: 8300000, guid: abbe809716d9631408aee08522a79c1d, type: 3}
+    answerAIsHappy: 1
+    answerB: That's alright.. But when you get the chance, please do try it and tell
+      me what you think
+    answerBClip: {fileID: 8300000, guid: a9db13a71e07cfa41960fca2fb618b4e, type: 3}
+    answerBIsHappy: 0
+  - question: "Regardless.. Maybe I should just order some pizza to be safe.. Don\u2019t
+      want the guests going hungry, right ? Ha ha ha. Oh hey here comes a guest!"
+    questionClip: {fileID: 8300000, guid: ebd5ea01ce21eba409ee2bc7d06aed6d, type: 3}
+    answerA: 
+    answerAClip: {fileID: 0}
+    answerAIsHappy: 0
+    answerB: 
+    answerBClip: {fileID: 0}
+    answerBIsHappy: 0
